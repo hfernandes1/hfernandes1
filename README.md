@@ -3,28 +3,24 @@
 
 <a href="https://open.spotify.com/user/8m6n6duicz81cmiavguxrarbv" target="_blank"> <img align="right" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=8m6n6duicz81cmiavguxrarbv&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=8m6n6duicz81cmiavguxrarbv&cover_image=true&theme=novatorem&bar_color=684eb1&bar_color_cover=true)"> </a>  
 
+
 - 🔥 QA Analyst 💻
-
 - 🔭 I’m currently working at [Lenovo](https://github.com/lenovo)
-
 - ⚡ I love sports and technology
-
 - 📚 Production Engineering at Mackenzie University 📚
-
 - 📡 I'm looking to collaborate on community
-
 - 🌱 I’m currently learning about BDD process, Gherkin sintax and Cypress
-
 - 👨‍💻 More about me [Portfolio](https://https://curriculo-henrique-fernandes.netlify.app/)
 
-
+#
 
 
 <div>
+
   <a href="https://github.com/hfernandes1">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Hfernandes1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hfernandes1&layout=compact&langs_count=7&theme=dark"/>
-
+<div>
   
 
    </div> 
