@@ -1,6 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Henrique </h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hfernandes1&color=yellow" alt="Profile views" /> </p>
 
+<a href="https://open.spotify.com/user/8m6n6duicz81cmiavguxrarbv" target="_blank"> <img align="right" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=8m6n6duicz81cmiavguxrarbv&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=8m6n6duicz81cmiavguxrarbv&cover_image=true&theme=novatorem&bar_color=684eb1&bar_color_cover=true)"> </a>  
+
 - 🔥 QA Analyst 💻
 
 - 🔭 I’m currently working at [Lenovo](https://github.com/lenovo)
@@ -14,6 +16,9 @@
 - 🌱 I’m currently learning about BDD process, Gherkin sintax and Cypress
 
 - 👨‍💻 More about me [Portfolio](https://https://curriculo-henrique-fernandes.netlify.app/)
+
+
+
 
 <div>
   <a href="https://github.com/hfernandes1">
